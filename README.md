@@ -12,7 +12,7 @@
 
 - 👯 I’m looking to collaborate on **Data Analytics Projects with Business Use Cases**
 
-- 👨‍💻 All of my projects are available at [https://public.tableau.com/app/profile/sreenija.kurra/vizzes](https://public.tableau.com/app/profile/sreenija.kurra/vizzes)
+- 👨‍💻 All of my Tableau projects are available at [https://public.tableau.com/app/profile/sreenija.kurra/vizzes](https://public.tableau.com/app/profile/sreenija.kurra/vizzes)
 
 - 📫 Reach me at **skurra@umass.edu**
 
