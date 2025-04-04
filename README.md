@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Sreenija Kurra</h1>
 <h3 align="center">A passionate Business Analyst</h3>
 
-<div align="center"> <img height="150" src="https://tenor.com/xYmX.gif"  /> </div>
+<div align="center"> <img height="150" src="https://raw.githubusercontent.com/sreenijakurra/firstrepo/girlgif.gif" height="150"/>
+</div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=skurra&label=Profile%20views&color=0e75b6&style=flat" alt="skurra" /> </p>
 
