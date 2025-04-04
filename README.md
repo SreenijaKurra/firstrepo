@@ -27,5 +27,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=skurra&" alt="skurra" /></p>
 
-![Snake animation](https://raw.githubusercontent.com/firstrepo/snake.yml)
-
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
