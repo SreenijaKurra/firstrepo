@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sreenija Kurra</h1>
 <h3 align="center">A passionate Business Analyst</h3>
 
-<div align="center"> <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  /> 
+<div align="center"> <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  /> </div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=skurra&label=Profile%20views&color=0e75b6&style=flat" alt="skurra" /> </p>
 
