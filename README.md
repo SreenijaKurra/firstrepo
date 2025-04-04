@@ -5,9 +5,9 @@
 
 - 🔭 I’m currently aiming to **find a full time job**
 
-- 🌱 I’m currently working on **AIML, AWS, SQL**
+- 🌱 I’m currently working on **AI/ML, AWS, SQL**
 
-- 👯 I’m looking to collaborate on **daya analytics projects**
+- 👯 I’m looking to collaborate on **Data Analytics Projects with Business Use Cases**
 
 - 👨‍💻 All of my projects are available at [https://public.tableau.com/app/profile/sreenija.kurra/vizzes](https://public.tableau.com/app/profile/sreenija.kurra/vizzes)
 
