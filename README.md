@@ -14,7 +14,7 @@
 
 - 👨‍💻 All of my projects are available at [https://public.tableau.com/app/profile/sreenija.kurra/vizzes](https://public.tableau.com/app/profile/sreenija.kurra/vizzes)
 
-- 📫 How to reach me **skurra@umass.edu**
+- 📫 Reach me at **skurra@umass.edu**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
