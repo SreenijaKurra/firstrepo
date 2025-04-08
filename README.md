@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently aiming to **find a full time job**
 
-- 🌱 I’m working on **AI/ML, AWS, SQL**
+- 🌱 I’m working on **AI/ML, AWS, SQL and Tableau**
 
 - 👯 I’m looking to collaborate on **Data Analytics Projects with Business Use Cases**
 
