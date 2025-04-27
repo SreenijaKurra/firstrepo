@@ -5,8 +5,8 @@
 </div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=skurra&label=Profile%20views&color=0e75b6&style=flat" alt="skurra" /> </p>
+<!--- 🔭 I’m currently aiming to **find a full time job**-->
 
-- 🔭 I’m currently aiming to **find a full time job**
 
 - 🌱 I’m working on **AI/ML, AWS, SQL and Tableau**
 
